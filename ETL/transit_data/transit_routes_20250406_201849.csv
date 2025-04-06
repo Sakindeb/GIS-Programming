@@ -1,0 +1,901 @@
+route_id,onestop_id,route_short_name,route_long_name,route_type,route_color,agency_name,agency_onestop_id,feed_version_id,feed_onestop_id
+BF1,r-u0nkbh-bf1,BF1,Vellone - Sacro Monte,7,07624A,Azienda Varesina Trasporti,o-u0nkbh2-aziendavaresinatrasporti,142,f-u0nkbh2-aziendavaresinatrasporti
+CKVIE,r-u2e-ceskykrumlovtovienna,,Cesky Krumlov to Vienna,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+VIECK,r-u2e-viennatoceskykrumlov,,Vienna to Cesky Krumlov,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+CKSLZ,r-u29-ceskykrumlovtosalzburg,,Cesky Krumlov to Salzburg,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+SLZCK,r-u29-salzburgtoceskykrumlov,,Salzburg to Cesky Krumlov,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+CKHAL,r-u29-ceskykrumlovtohallstatt,,Cesky Krumlov to Hallstatt,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+HALCK,r-u29-hallstatttoceskykrumlov,,Hallstatt to Cesky Krumlov,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+CKLNZ,r-u2d-ceskykrumlovtolinz,,Cesky Krumlov to Linz,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+LNZCK,r-u2d-linztoceskykrumlov,,Linz to Cesky Krumlov,3,,Bean Shuttle,o-u2d-beanshuttle,545,f-u2d-beanshuttle
+12862380,r-75cnn-940,940,Ramos (Praia) - Madureira,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860029,r-75cjz-673,673,Lucas - Méier (via Del Castilho) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866507,r-75cm8-405,405,Ramos - Cosme Velho,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862336,r-75cm9-006,006,Santa Teresa - Castelo (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869719,r-75cj-2115,2115,Pechincha - Castelo (via Itanhangá),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861311,r-75cq-323,323,Bananal - Castelo (via Cacuia) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861068,r-75cm2-432,432,Vila Isabel - Gávea (via Túnel Santa Bárbara),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864183,r-75cjx-609,609,São Francisco Xavier - Méier,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860338,r-75cn-374,374,Pavuna - Praça XV (via Costa Barros),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862170,r-75cj-744,744,Realengo - Cascadura (via Jardim Novo) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865820,r-75cn-2295,2295,Pavuna - Castelo,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864130,r-75cj-2333,2333,Recreio - Castelo (via Av. das Américas),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861256,r-75cj-313,313,Penha (Grotão) - Praça Tiradentes (via Vila Cruzeiro) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860099,r-75cjx-608,608,Grajaú - Praça Saens Peña,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861220,r-75cjt-766,766,Madureira - Freguesia,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860362,r-75cj-2337,2337,Santa Cruz - Castelo (via Sepetiba),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863126,r-75cj-790,790,Campo Grande - Cascadura,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863358,r-75cj-2114,2114,Freguesia - Castelo,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861348,r-75cq-328,328,Bananal - Castelo (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861373,r-75cm-497,497,Penha - Cosme Velho,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861428,r-75bv-840,840,São Fernando - Campo Grande (via Av. João XXIII),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862180,r-75cj-363,363,Vila Valqueire - Praça XV,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861432,r-75cn-919,919,Pavuna - Bonsucesso (Parque União),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866445,r-75cm2-461,461,São Cristóvão - Ipanema (via Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861436,r-75cj-2331,2331,Santa Cruz - Castelo (via Praça Mauá),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864867,r-75cjc-767,767,Campo Grande - Guadalupe (via Vila Kennedy),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868634,r-75cj-396,396,Bairro Jabour - Carioca,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866581,r-75cj-601,601,Taquara - Saens Peña (via Av. Menezes Cortes),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864977,r-75cj-352,352,Rio Centro - Castelo (via Autódromo/Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862202,r-75cjz-625,625,Olaria - Saens Peña (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862423,r-75cm2-435,435,Grajaú - Gávea (via Túnel Santa Bárbara),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860271,r-75cjt-734,734,Rio das Pedras - Madureira (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866621,r-75cjg-743,743,Barata - Bangu (via Estrada da Água Branca) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866637,r-75cm-413,413,Muda - Jardim de Alah (via Aterro do Flamengo),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862210,r-75cm8-133,133,Rodoviária - Largo do Machado (via Estácio),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860398,r-75cj-393,393,Bangu - Castelo,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860083,r-75cj-386,386,Anchieta - Passeio (via Mariópolis),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863184,r-75cj-388,388,Santa Cruz - Carioca (via Av. Brasil) (Expresso),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13453901,r-75bvq-885,885,Piraquê - Santa Cruz (via Pedra de Guaratiba),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861385,r-75cjx-627,627,Inhaúma - Saens Peña,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861424,r-75cj-769,769,Jardim Violeta - Madureira (via Bangu) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865778,r-75cj4-817,817,Vargem Grande - Recreio (via Av. Glaucio Gil/Estrada do Rio Morto) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864126,r-75cjx-604,604,Usina - Praça Saens Peña (via R. Conde de Bonfim),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866543,r-75cq3-935,935,Ribeira - Portuguesa (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861270,r-75cjz-663,663,Méier - Fundão (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864122,r-75cj-292,292,Engenho da Rainha - Praça XV,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862102,r-75cj-2335,2335,Santa Cruz - Castelo (via Barra da Tijuca),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866493,r-75cj-341,341,Taquara - Candelária,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863080,r-75cm9-007,007,Silvestre - Central (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860279,r-75cm-439,439,Vila Isabel - Leblon (via Túnel Rebouças/Jóquei) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862340,r-75bvx-893,893,Jardim Palmares - Campo Grande (via 29 de Março),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860382,r-75cj-394,394,Vila Kennedy - Tiradentes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864057,r-75cj-337,337,Curicica - Estacio (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13386970,r-75cj-brt,BRT,Santa Cruz - Alvorada,3,000080,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862263,r-75cm2-436,436,Grajaú - Leblon (via Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860318,r-75cj-2251,2251,Engenho de Dentro - Castelo (Expresso),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862432,r-75cm8-626,626,Muda - Praça Saens Peña,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863088,r-75cm8-410,410,Saens Peña - Gávea,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860239,r-75cj-2329,2329,Recreio - Castelo (via Av. Sernambetiba),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863265,r-75cnj-778,778,Pavuna - Cascadura (via Estrada de Botafogo) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867892,r-75cq-2344,2344,Bancários - Castelo,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863104,r-75cjm-886,886,Freguesia - Barra da Tijuca (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862206,r-75bv-849,849,Base Aérea de Santa Cruz - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862271,r-75cjj-862,862,Rio das Pedras - Barra da Tijuca (via Estrada de Jacarepaguá) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864035,r-75cm8-507,507,Largo do Machado - Silvestre,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861377,r-75cj-380,380,Curicica - Praça XV (via Linha Amarela/Estrada do Pau Ferro),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860129,r-75cj-615,615,Del Castilho - Pavuna (via Norte Shopping) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862255,r-75cjj-863,863,Rio das Pedras - Barra da Tijuca (via Av. Ayrton Senna) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863203,r-75cq-2343,2343,Ribeira - Castelo (via Linha Vermelha),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862237,r-75cjf-811,811,Vila Kennedy - Bangu (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866612,r-75cj-759,759,Cesarão - Coelho Neto,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861168,r-75bvx-842,842,Paciência - Campo Grande (via Santa Margarida),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869113,r-75cjm-700,700,Madureira - Ponte de Marapendi (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861282,r-75cq-696,696,Praia do Dendê - Méier,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865043,r-75cm-442,442,Maré - Copacabana (via Praça Mauá) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864845,r-75cj-239,239,Água Santa - Castelo (via R. Vinte e Quatro de Maio) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864160,r-75cjb-830,830,Campo Grande - Distrito Industrial (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861365,r-75cm8-440,440,Caju - Copacabana (via Túnel Rebouças/Túnel Velho) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869211,r-75cj-2381,2381,Pedra de Guaratiba - Castelo (via Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863269,r-75cj-636,636,Gardênia Azul - Saens Peña,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862162,r-75cjy-667,667,Madureira - Méier (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864235,r-75cn-376,376,Pavuna - Praça XV (via R. Mercúrio) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864938,r-75cq3-934,934,Ribeira - Portuguesa (via Cocotá) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862391,r-75cj9-894,894,Campo Grande - Santa Rita (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864815,r-75cj-639,639,Jardim América - Saens Peña (via Rocha Miranda),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862090,r-75cj-687,687,Pavuna - Méier,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865860,r-75cj8-851,851,Campo Grande  - Escola Amazonas (via Augusto Vasconcelos) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860079,r-75cj-2336,2336,Campo Grande - Castelo (via Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866501,r-75cnj-725,725,Ricardo de Albuquerque - Cascadura (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863168,r-75cjf-812,812,Carobinha - Bangu,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860326,r-75cn-905,905,Bonsucesso - Irajá,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862247,r-75cq-322,322,Ribeira - Castelo (via Cocotá) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866661,r-75cj-784,784,Vila Kennedy - Marechal Hermes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863997,r-75cjz-621,621,Penha - Saens Peña (via Mangueira) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863318,r-75cjf-814,814,Rio da Prata - Bangu (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865663,r-75cj8-834,834,Largo do Correia - Campo Grande (via Estrada do Monteiro),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13469525,r-75cj-2346,2346,Vila Valqueire - Castelo (via Marechal Hermes),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864839,r-75cn-399,399,Pavuna - Castelo (via Av. Pres. Vargas/R. Alcobaça),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860386,r-75cj-2302,2302,Mariópolis - Castelo,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863070,r-75cjx-602,602,Andaraí - Saens Peña (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863354,r-75cj-2111,2111,Praça Seca - Castelo (via Av. Menezes Cortes),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865840,r-75cm3-2015,2015,Leblon - Castelo (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864228,r-75cj-392,392,Bangu - Carioca (via Padre Miguel),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867349,r-75cj4-827,827,Vargem Grande - Recreio (via Estrada Benvindo de Novaes/Av. Glaucio Gil) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863273,r-75cj-926,926,Senador Camará - Penha,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861128,r-75cq0-901,901,Bonsucesso - Bananal (via Jardim Guanabara),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865758,r-75cj-2334,2334,Campo Grande - Castelo,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861240,r-75cnm-944,944,Pavuna - Conjunto Engenheiro Rubens Paiva (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862350,r-75cjj-805,805,Alvorada - Jardim Oceânico (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865713,r-75cm-2017,2017,Rodoviária - Leblon (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863136,r-75cm-455,455,Méier - Copacabana (via Parque do Flamengo),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866566,r-75cm8-226,226,Grajaú - Carioca (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864147,r-75cjy-712,712,Cascadura - Irajá (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865828,r-75cj-181,181,Rodoviária - São Conrado (via Linha Amarela),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867964,r-75cj-348,348,Rio Centro - Castelo (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861327,r-75cj-684,684,Padre Miguel - Méier,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864899,r-75cm8-209,209,Estácio - Caju (via São Cristóvão) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862395,r-75cm-476,476,Méier - Leblon (via Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860300,r-75cj-306,306,Praça Seca - Castelo (via Av. Menezes Cortes),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866547,r-75cm9-472,472,Triagem - Leme (via Túnel Velho),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862198,r-75cj-624,624,Mariópolis - Praça da Bandeira,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863322,r-75cj8v-837,837,Campo Grande - Conjunto da Marinha (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860185,r-75cm2-110,110,Rodoviária - Jardim de Alah (via Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865739,r-75cm3-2014,2014,Gávea - Praça Mauá,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865880,r-75cm2-426,426,Usina - Jardim de Alah (via Túnel Santa Bárbara),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867190,r-75cm-444,444,Maré - Copacabana (via Túnel Santa Bárbara) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865078,r-75cq0-925,925,Aeroporto Internacional do RJ (AIRJ) - Bancários (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862124,r-75cjx-606,606,Rodoviária - Engenho de Dentro,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862128,r-75cjy-685,685,Irajá - Méier,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863979,r-75cjg-819,819,Jardim Bangu - Bangu (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860394,r-75cj-339,339,Rodoviária - Cidade de Deus (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865035,r-75cmb-911,911,Bonsucesso - Cidade Universitária (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863242,r-75cj-692,692,Méier - Alvorada (via Av. Dom Helder Câmara/Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861192,r-75cj-742,742,Barata - Cascadura,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861232,r-75cjz-630,630,Penha (Iapi) - Saens Peña,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861182,r-75cj-689,689,Campo Grande - Méier,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862407,r-75cj-309,309,Alvorada - Central (via Botafogo/Av. Sernambetiba),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864819,r-75bvw-807,807,Jesuítas - Santa Cruz (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866631,r-75cn-377,377,Pavuna - Praça XV (via Costa Barros) (Rápido) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865601,r-75cj-711,711,Rocha Miranda - Rio Comprido,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861248,r-75cm8-222,222,Vila Isabel - Praça Mauá (via Hosp. dos Servidores) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864934,r-75cjv-782,782,Cascadura - Marechal Hermes (via Rocha Miranda) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13387096,r-75cj-brt,BRT,Paciência - Recreio,3,000080,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862289,r-75cj-331,331,Praça Seca - Castelo (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864981,r-75cj-2345,2345,Vila Valqueire - Castelo (via Norte Shopping/R. Quiririm),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864023,r-75cj-723,723,Cascadura - Mariópolis,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862174,r-75cnj-709,709,Cascadura - Amarelinho (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865832,r-75cj-556,556,Rio das Pedras - Leblon (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864136,r-75cm9-401,401,Rio Comprido - São Salvador,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860063,r-75cju-777,777,Padre Miguel - Madureira,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867264,r-75cjv-783,783,Marechal Hermes - Praça Seca (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865900,r-75cjg-739,739,Sulacap - Bangu (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866669,r-75cj-391,391,Padre Miguel - Praça Tiradentes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864906,r-75cj-368,368,Rio Centro - Castelo,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866585,r-75cm2-111,111,Central - Jardim de Alah (via Elevado/Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863172,r-75cjz-623,623,Penha - Saens Peña (via Túnel Noel Rosa) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864075,r-75cm9-183,183,Laranjeiras - Central (via Túnel Santa Bárbara),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860304,r-75cq-2342,2342,Bananal - Castelo (via Linha Vermelha),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867928,r-75cq-914,914,Vigário Geral - Bananal,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866688,r-75cn-2305,2305,Jardim América - Castelo,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861084,r-75cj-613,613,Del Castilho - Rio Centro (via Autódromo/Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13462805,r-75cj-2304,2304,Sepetiba - Carioca (via Av. Padre Guilherme Decaminada),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860141,r-75cj-370,370,Padre Miguel - Carioca,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865059,r-75cjb-822,822,Campo Grande - Corcundinha (via Vila Nova) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860406,r-75cq-326,326,Bancários - Castelo (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863188,r-75cj-750,750,Sepetiba - Coelho Neto,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864922,r-75cjm-829,829,Gardênia Azul - Freguesia (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869236,r-75cj-2308,2308,Cosmos - Carioca (via Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862144,r-75cnh-795,795,Magalhães Bastos - Pavuna (via Mariópolis),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865786,r-75cj-254,254,Madureira - Praça XV,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867390,r-75cj-249,249,Água Santa - Carioca (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863261,r-75cj-802,802,Bangu - Campo Grande (via Rio da Prata),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865031,r-75cjw-652,652,Méier - Cascadura (via Lins) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865806,r-75cq0-922,922,Tubiacanga - Aeroporto Internacional do RJ (AIRJ) (via Via Ligth) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862387,r-75cjz-680,680,Penha (Iapi) - Méier (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860289,r-75cjy-653,653,Marechal Hermes - Méier (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862304,r-75cm8-441,441,Caju - Lido (via São Cristóvão/Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860181,r-75cm-485,485,Penha - Siqueira Campos (via Linha Vermelha/Túnel Santa Bárbara),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865620,r-75cj-731,731,Campo Grande - Marechal Hermes (via Estrada da Posse),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866497,r-75cm8-229,229,Usina - Castelo (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861352,r-75cm-335,335,Cordovil - Tiradentes (Rápido) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860342,r-75cm-438,438,Vila Isabel - Leblon (via Jóquei) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862188,r-75cjy-678,678,Méier - Vila Valqueire,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864239,r-75cj-866,866,Campo Grande - Pedra de Guaratiba (via Estrada do Magarça) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861114,r-75cj-638,638,Saens Peña - Marechal Hermes (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861152,r-75cm2-463,463,São Cristóvão - Copacabana (via Túnel Rebouças/Túnel Velho) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863052,r-75cnn-775,775,Vigário Geral - Madureira (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867330,r-75cj-378,378,Marechal Hermes - Castelo,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862136,r-75cj-361,361,Recreio dos Bandeirantes - Carioca (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864001,r-75cm-2018,2018,Aeroporto Internacional do RJ (AIRJ) - Alvorada,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868616,r-75cjz-622,622,Penha - Saens Peña (via Grajaú) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860223,r-75cj-794,794,Cascadura - Bangu (via Barata),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863199,r-75cjy-676a,676A,Madureira - Meier (via Cascadura),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862259,r-75cm9-180,180,Cosme Velho - Central (via Largo do Machado),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861122,r-75cj-358,358,Cosmos - Candelária,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862328,r-75cm-486,486,Fundão - Siqueira Campos (via Túnel Santa Bárbara),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861088,r-75cj-344,344,Rocha Miranda - Praça XV (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860095,r-75cnn-920,920,Pavuna - Bonsucesso (via Fazenda Botafogo),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863309,r-75cm9-201,201,Santa Alexandrina - Praça XV (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866641,r-75cjz-662,662,Méier - Maria da Graça (via Del Castilho) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861315,r-75cj-301,301,Rodoviária - Barra da Tijuca (via Av. das Américas),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865848,r-75cm2-415,415,Usina - Leblon (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863176,r-75cj-311,311,Engenheiro Leal - Praça XV (via Cavalcanti) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860091,r-75cjm-887,887,Pechincha - Barra da Tijuca (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867184,r-75cjy-928,928,Marechal Hermes - Ramos (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867241,r-75cnj-773,773,Pavuna - Cascadura (via Estrada do Camboatá) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861369,r-75cj-397,397,Campo Grande - Carioca,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860293,r-75cq-327,327,Ribeira - Castelo (via Linha Vermelha) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863162,r-75cj8-836,836,Caboclos - Campo Grande (via R. Olinda Ellis) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868523,r-75cj-957,957,Maré - Alvorada (via Botafogo/Av. Sernambetiba),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861340,r-75cnn-942,942,Penha - Pavuna,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863348,r-75cjg-741,741,Barata - Bangu (via Murundu) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860308,r-75cm8-433,433,Vila Isabel - Praia de Botafogo (Via Lapa) Circular,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864218,r-75cjz-679,679,Grotão - Méier (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861072,r-75cj-390,390,Curicica - Candelária (via Estrada do Guerenguê),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861307,r-75cj-238,238,Água Santa - Praça XV (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863255,r-75cm9-107,107,Central - Urca (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861319,r-75cj-369,369,Bangu - Candelária,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866441,r-75cj-232,232,Lins - Castelo (via R. Aquidabã),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860201,r-75cj-786,786,Campo Grande - Marechal Hermes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869125,r-75cj-2110,2110,Gardênia Azul - Castelo,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863100,r-75cj-383,383,Realengo - Praça da República (Via Sulacap),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864101,r-75cj8-838,838,Jardim Maravilha - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865852,r-75cj9-847,847,Rio da Prata - Campo Grande (via Estrada do Lameirão),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861080,r-75cj-315,315,Recreio dos Bandeirantes - Central (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868712,r-75cm9-202,202,Rio Comprido - Praça XV (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860067,r-75cjj-844,844,Barra Shopping - Barrinha (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860107,r-75cj-746,746,Jabour - Cascadura (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867258,r-75cm8-473,473,São Januário - Siqueira Campos (via Túnel Rebouças) Circular,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13399815,r-75cj-302,302,Rodoviária - Recreio dos Bandeirantes (via Av. Sernambetiba),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864027,r-75cm-443,443,Maré - Leblon (via Central) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860402,r-75cn-384,384,Pavuna - Passeio,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864222,r-75cjb-895,895,Serrinha - Campo Grande (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860390,r-75cn-349,349,Rocha Miranda - Castelo (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863292,r-75cjtk-859,859,Covanca - Largo do Tanque (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861286,r-75cj-395,395,Coqueiros - Tiradentes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860115,r-75cm-484,484,Olaria - Copacabana (via Aterro do Flamengo) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867435,r-75cjt-760,760,Curicica - Madureira (via Estrada do Guerenguê) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862106,r-75cj-351,351,Irajá - Passeio (via Praça Vinte Sete de Agosto) (Rápido),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866696,r-75bvtg-892,892,São Benedito - Santa Cruz (via Matadouro) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862118,r-75cm8-603,603,Usina - Praça Saens Peña (via São Miguel),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863037,r-75cjb-850,850,Mendanha - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861412,r-75cj-867,867,Barra de Guaratiba - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863211,r-75cnp-915,915,Bonsucesso - Aeroporto Internacional do RJ (AIRJ) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862436,r-75cj-398,398,Campo Grande - Tiradentes (via Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864851,r-75cj-688,688,Pavuna - Méier (via R. José dos Reis),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860322,r-75cj8-843,843,Campo Grande - Boa Esperança (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863064,r-75cm22-503,503,Alto Leblon - Gávea (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861156,r-75cm8-2203,2203,Grajaú - Castelo (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13439213,r-75cj-665,665,Pavuna - Saens Peña (via Av. Pastor Martin Luther King),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863362,r-75bv-884,884,Sepetiba - Campo Grande (via Estrada do Magarça),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867300,r-75cmb-616,616,Del Castilho - Fundão (via Cidade Universitária),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862218,r-75cjy-721,721,Cascadura - Vila Cruzeiro,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863192,r-75cj-669,669,Pavuna - Cachambi (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865049,r-75cm-634,634,Bananal - Saens Peña,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860227,r-75cm8-475,475,Méier - Prado Júnior (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860169,r-75cj-745,745,Bangu - Cascadura,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868694,r-75bvn-891a,891A,Sepetiba - Mato Alto,3,99CCFF,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861400,r-75cj-350,350,Irajá - Passeio (Rápido),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865864,r-75bvw-858,858,Campo Grande - Santa Cruz (via Conjunto Cesarão/Conjunto Alvorada),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861266,r-75cjz-661,661,Méier - Maria da Graça (via R. Álvares Cabral/Norteshopping) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860075,r-75cjb-824,824,Campo Grande - Santa Maria (Vila Nova)  (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861236,r-75cnh-779,779,Pavuna - Madureira (via R. João Vicente),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862358,r-75cj-247,247,Camarista Méier - Passeio (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13448497,r-75cj-754,754,São Fernando - Coelho Neto (via Santa Cruz),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860243,r-75cm-310,310,Engenho da Rainha - Praça XV (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860267,r-75cm-456,456,Norte Shopping - Siqueira Campos (via Túnel Santa Bárbara),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860370,r-75cj-751,751,Jardim Novo (Realengo) - Cascadura,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865794,r-75cq-924,924,Aeroporto Internacional do RJ (AIRJ) - Bananal,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867310,r-75cm-635,635,Bananal - Saens Peña (via Linha Vermelha/Cidade Universitária),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869782,r-75cj-525,525,General Osório - Alvorada,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867907,r-75cj-650,650,Marechal Hermes - Engenho Novo (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860121,r-75cm-402,402,Engenho da Rainha - Gávea,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860235,r-75bv-804,804,Largo do Aarão - Campo Grande (via R. Felipe Cardoso),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863041,r-75cm8-409,409,Saens Peña - Jardim Botânico (via Horto),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865667,r-75cj-738,738,Urucânia - Marechal Hermes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862368,r-75cm8-217,217,Andaraí - Carioca (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861118,r-75cj-600,600,Taquara - Saens Peña (via Cidade de Deus/Av. Menezes Cortes),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861323,r-75cmb-2145,2145,Aeroporto Internacional do RJ (AIRJ) - Aeroporto Santos Dumont,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862158,r-75cm2-460,460,São Cristóvão - Leblon (via Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863277,r-75cm-498,498,Circular da Penha - Cosme Velho,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868547,r-75cnh-793,793,Magalhães Bastos - Pavuna,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864254,r-75cm8-434,434,Grajaú - Praia de Botafogo (via Lapa) Circular,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866675,r-75cm2-583,583,Cosme Velho - Leblon (via Jóquei) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865790,r-75cj8-845,845,Campo Grande - Cantagalo (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861244,r-75cm-483,483,Penha - Siqueira Campos (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864879,r-75cq-329,329,Bancários - Castelo (via Praia da Rosa) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862226,r-75cn-910,910,Bananal - Madureira (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861274,r-75cj-389,389,Vila Aliança - Carioca (Rápido),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864871,r-75cmb-210,210,Caju - Candelária (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862275,r-75bv-839,839,Campo Grande - Cesarão (via Estrada Urucânia) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865894,r-75cm2-416,416,Saens Peña - Jardim Botânico (Horto) (via Túnel Rebouças),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866651,r-75cj-555,555,Rio das Pedras - Gávea,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868020,r-75cm9-010,010,Fátima - Central (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864005,r-75cj-2307,2307,Jardim Sete de Abril - Castelo (via Av. Pres. Vargas),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861331,r-75cm8-605,605,Vila Isabel - São Francisco Xavier,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860378,r-75cj9-846,846,Rio da Prata - Campo Grande (via Estrada do Cabuçu),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862279,r-75cm2-462,462,São Cristóvão - Copacabana (via Túnel Rebouças) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862094,r-75cnp-334,334,Cordovil - INTO (via Praça das Nações) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861160,r-75cq-325,325,Ribeira - Castelo (via Linha Vermelha) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863372,r-75cj9-848,848,Campo Grande - Bairro Monte Santo (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861252,r-75bv-898,898,Sepetiba - Campo Grande (via Estrada do Campinho),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860231,r-75cj-607,607,Cascadura - Rio Comprido (via Estácio) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860111,r-75bv-825,825,Jesuítas - Campo Grande (via Santa Cruz),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865695,r-75bvz-833,833,Conjunto Manguariba - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867245,r-75cj-364,364,Jardim Bangu - Tiradentes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861196,r-75cj-752,752,Conjunto dos Palmares - Coelho Neto,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861144,r-75cj-2332,2332,Campo Grande - Castelo (via Av. Santa Cruz),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864875,r-75cj-277,277,Rocha Miranda - Praça XV (via São Cristóvão) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860374,r-75cj-737,737,Santíssimo - Marechal Hermes (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862098,r-75cj-342,342,Jardim América - Castelo,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863331,r-75cj-2303,2303,Cesarão - Carioca,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865017,r-75cj-365,365,Mendanha - Tiradentes (Expresso),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864204,r-75bv-871,871,Sepetiba - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864200,r-75cnp-906,906,Jardim América - Caju,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863033,r-75cj-345,345,Barra da Tijuca - Candelária (via Furnas),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865782,r-75cj-338,338,Taquara - Candelária (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862184,r-75cj-2112,2112,Taquara - Castelo (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862241,r-75cj-2802,2802,Santa Cruz - Barra da Tijuca (via Av. das Américas),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864194,r-75cmb-320,320,Parque União - Praça XV (Aeroporto) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12863993,r-75bvw-813,813,Manguariba - Santa Cruz (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868117,r-75cj-936,936,Campo Grande - Cidade Universitária (via Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861099,r-75cj-917,917,Realengo - Bonsucesso,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865027,r-75cnn-950,950,Vicente Carvalho - Vista Alegre (via Av. Meriti),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862415,r-75cm-404,404,Cordovil - Leblon (via Av. Brasil) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866457,r-75cj-923,923,Jardim Violeta - Iapi da Penha (via Bangu),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867268,r-75cj-946,946,Pavuna - Engenho da Rainha (via Av. Dom Helder Câmara),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865659,r-75cj-756,756,Santa Cruz - Coelho Neto,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862411,r-75cn-945,945,Pavuna - Cidade Universitária,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13419130,r-75cj-343,343,Joatinga - Praça XV (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864156,r-75cn-373,373,Pavuna - Passeio (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861420,r-75cm8-422,422,Grajaú - Cosme Velho,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864166,r-75cm-464,464,Maracanã - Praia de Botafogo (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860358,r-75cm8-220,220,Usina - Candelária (via R. Haddock Lobo) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860330,r-75cj-2918,2918,Aeroporto Internacional do RJ (AIRJ) - Alvorada (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864823,r-75cjb-821,821,Campo Grande - Corcundinha (via Estrada das Capoeiras) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861212,r-75cm9-014,014,Paula Matos - Castelo (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866665,r-75cj-933,933,Catiri - Cidade Universitária (via Bangu/Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865774,r-75cjv-781,781,Cascadura - Marechal Hermes (via Praça Seca) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860165,r-75cjb-869,869,Santa Margarida - Campo Grande (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860255,r-75cn-385,385,Village Pavuna - Passeio (via Estrada do Camboatá),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860350,r-75cjy-651,651,Méier - Cascadura (via R. Arquias Cordeiro) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864930,r-75cmb-330,330,Parque União - Castelo (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861136,r-75cj-371,371,Praça Seca - Praça da República,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866589,r-75cj-317,317,Alvorada - Central (via Túnel Santa Bárbara) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862403,r-75cmb-2101,2101,Aeroporto Internacional do RJ (AIRJ) - Aeroporto Santos Dumont (Expresso),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860251,r-75cj-693,693,Méier - Alvorada (via R. Dias da Cruz/Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12868555,r-75cm3-157,157,Gávea - Central (via Lagoa/Leblon),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866526,r-75cjm-861,861,Rio das Pedras - Curicica (via Cidade de Deus),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861404,r-75cm9-184,184,Laranjeiras - Central,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862166,r-75cj-826,826,Joatinga  -  Vargem Grande (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865722,r-75cj-550,550,Cidade de Deus - Gávea,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865856,r-75cj-2310,2310,Bangu - Carioca,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+13409309,r-75cj-303,303,Rodoviária - Barra da Tijuca (via Linha Amarela) (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861295,r-75cj-908,908,Bonsucesso - Guadalupe (via Metrô Inhaúma),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862222,r-75cj8-835,835,Largo do Correia - Campo Grande (via Estrada da Cachamorra),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865649,r-75cm90-580,580,Largo do Machado - Cosme Velho,3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865023,r-75cj-2338,2338,Campo Grande - Castelo (via Estada do Magarça),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860043,r-75cj-852,852,Campo Grande - Pedra de Guaratiba (via Estrada do Mato Alto) (Circular),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861396,r-75cj-362,362,Honório Gurgel - Praça XV (Rápido),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861278,r-75cmb-913,913,Del Castilho - Fundão (via Cidade Universitária),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12864891,r-75cjc-864,864,Bangu - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860219,r-75cm-324,324,Ribeira - Castelo (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861076,r-75cj-557,557,Rio das Pedras - Copacabana (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865001,r-75cj-611,611,Del Castilho - Curicica (via Linha Amarela),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861106,r-75cnp-956,956,Penha (Iapi) - Invernada (via Penha) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862300,r-75cnn-774,774,Madureira - Jardim América (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867934,r-75cjr-448,448,Maracaí - São Conrado (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860197,r-75cm3-584,584,Cosme Velho - Leblon (via Copacabana) (Circular),3,D8B511,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12860047,r-75cj-2801,2801,Campo Grande - Barra da Tijuca (via Estrada do Magarça),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12862233,r-75cj-312,312,Olaria - Candelária (via São Cristóvão) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12866435,r-75bvx-868,868,Urucânia - Campo Grande,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861299,r-75cj-366,366,Campo Grande - Tiradentes,3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865068,r-75cjv-686,686,Fazenda da Bica - Madureira (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12861381,r-75cq-321,321,Bancários - Castelo (via Linha Vermelha) (Circular),3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869167,r-75cj-2309,2309,Urucânia - Carioca (via Av. Brasil),3,D62828,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12865824,r-75cj-614,614,Del Castilho - Alvorada,3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12867411,r-75cj-629,629,Irajá - Saens Peña,3,BAD80A,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+12869808,r-75cjm-860,860,Rio das Pedras - Freguesia (Circular),3,607C8C,Fetranspor,o-75cj-fetranspor,886,f-75cj-fetranspor
+LIN1,r-sr7f3-1,1,,3,D70005,MTM Mobilita' e Trasporti Molfetta,o-sr7f3-mtmmobilitaetrasportimolfetta,1353,f-sr7f3-mtmmobilitaetrasportimolfetta
+LIN2,r-sr7f3-2,2,,3,54A3FF,MTM Mobilita' e Trasporti Molfetta,o-sr7f3-mtmmobilitaetrasportimolfetta,1353,f-sr7f3-mtmmobilitaetrasportimolfetta
+LIN3,r-sr7f3-3,3,,3,68B015,MTM Mobilita' e Trasporti Molfetta,o-sr7f3-mtmmobilitaetrasportimolfetta,1353,f-sr7f3-mtmmobilitaetrasportimolfetta
+LIN4,r-sr7f3-4,4,,3,FF8236,MTM Mobilita' e Trasporti Molfetta,o-sr7f3-mtmmobilitaetrasportimolfetta,1353,f-sr7f3-mtmmobilitaetrasportimolfetta
+LIN5,r-sr7f3-5,5,Zona ASI,3,CC03A2,MTM Mobilita' e Trasporti Molfetta,o-sr7f3-mtmmobilitaetrasportimolfetta,1353,f-sr7f3-mtmmobilitaetrasportimolfetta
+EPS-Red,r-9xhvy-red,Red,Wonderview Ave - Fall River Road,3,FF0000,Town of Estes Park,o-9xhvw-townofestespark,1374,f-9xhvw-townofestespark
+EPS-Blue,r-9xhvx-blue,Blue,Downtown Estes Park - US-34,3,0000FF,Town of Estes Park,o-9xhvw-townofestespark,1374,f-9xhvw-townofestespark
+EPS-Silver,r-9xhvxj-silver,Silver,Fairgrounds Park-n-Ride,3,666666,Town of Estes Park,o-9xhvw-townofestespark,1374,f-9xhvw-townofestespark
+EPS-Brown,r-9xhvw-brown,Brown,Downtown Estes Park - Mary's Lake Lodge - YMCA - Beaver Meadows Entrance Station,3,663300,Town of Estes Park,o-9xhvw-townofestespark,1374,f-9xhvw-townofestespark
+EPS-Gold,r-9xhvww-gold,Gold,Downtown Estes Park - Estes Park Visitor Center - Maxwell Inn,3,FFCC00,Town of Estes Park,o-9xhvw-townofestespark,1374,f-9xhvw-townofestespark
+3040,r-djj61-blue,,Blue,3,0034E4,The Hernando Express,o-djj6-hernandobus,1414,f-djj6-thehernandoexpress~fl~us
+3279,r-djj3-green,,Green,3,1FA008,The Hernando Express,o-djj6-hernandobus,1414,f-djj6-thehernandoexpress~fl~us
+3042,r-djj6-purple,,Purple,3,9D91BA,The Hernando Express,o-djj6-hernandobus,1414,f-djj6-thehernandoexpress~fl~us
+3041,r-djj3b-red,,Red,3,BC3126,The Hernando Express,o-djj6-hernandobus,1414,f-djj6-thehernandoexpress~fl~us
+Black,r-bex-black,Black,"North Pole, Eielson AFB and Salcha",3,000000,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Blue,r-bewb-blue,Blue,"Johansen Retail Center, UAF, Fred Meyer West, Airport Way, Shoppers Forum Mall, Noel Wien Library",3,00AFEF,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Brown,r-bewby-brown,Brown,"Johansen Retail Center, Hamilton Acres",3,723F3C,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Gold,r-bewb-gold,Gold,Fort Wainwright,3,E5A431,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Green,r-bex0-green,Green,North Pole,3,A8CF45,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Grey,r-bewc-grey,Grey,Farmers Loop,3,848688,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Orange,r-bewbv-orange,Orange,"Van Horn Rd, Hospital, Cheif Andew Issac Health Center, Noel Wien Library, Fred Meyer West",3,DC6433,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Purple,r-bewby-purple,Purple,"South Cushman, Van Horn Rd, Cheif Andrew Issac Health Center, Hospital",3,6E4D8B,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Red,r-bewb-red,Red,"Johansen Retail Center, UAF, Fred Meyer West, Airport Way, Shoppers Forum Mall, Noel Wien Library",3,ED3237,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+Yellow,r-bewbg-yellow,Yellow,"Airport, Fred Meyer West, UAF, University West",3,F4D224,Fairbanks North Star Borough - MACS Transit,o-bew-fairbanksnorthstarborough~macstransit,1424,f-bew-fairbanksnorthstarborough~macstransit
+PEAK_NB,r-9rwx-peaknb,PEAKNB,PEAK Bus Route - North Bound,3,00FFFF,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+PEAK_SB,r-9rwx-peaksb,PEAKSB,PEAK Bus Route - South Bound,3,,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+MRTA-GRN,r-9ry8m-grn,GRN,Green Town Route,3,008000,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+MRTA-Red,r-9ry8q-red,Red,Red_Elkhorn-River Run,3,FF0000,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+MRTA-Yellow,r-9ry8q-yellow,Yellow,Gold Route,3,FFFF00,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+MRTA-BRN,r-9ry8t-brn,BRN,Bronze Route,3,A52A2A,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+MRTA-BLU,r-9ry8t-blu,BLU,Blue Route,3,0000FF,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+MRTA-PRP,r-9ry8t-prp,PRP,Silver Route,3,778899,Mountain Rides Transportation Authority (MRTA),o-9ry8-mountainridestransportationauthoritymrta,1547,f-9ry8-mountainridestransportationauthoritymrta
+2,r-u0fnt-2,2,Ligne 2 - AUBY Bon Air - SIN LE NOBLE Lycée,3,2E9AFE,SMTD,o-u0fn-smtd,1901,f-u0fn-smtd
+3,r-u0fn-3,3,Ligne 3 - DOUAI Place de Gaulle - Pecquencourt Sainte Marie,3,A52714,SMTD,o-u0fn-smtd,1901,f-u0fn-smtd
+A,,A,Ligne A - DOUAI De Lattre de Tassigny - ANICHE Azincourt,3,FE2E2E,SMTD,o-u0fn-smtd,1901,f-u0fn-smtd
+ADR_10,r-src1-10,10,Villla Betti-Pesaro-Novilara,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_107,r-src1-107,107,Urbino-Tavoleto-Morciano-Riccione,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_108,r-srbc-108,108,Mercatino-Sassofeltrio-Montegrimano-Montecerignone,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_10F,r-src1w-10f,10F,10 Pesaro-Gallantara (H),3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_11,r-srbb-11,11,Urbino-Ca La Lagia-Pieve di Cagna,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_1/3,r-src85-1~3,1/3,LINEA 1-3  P.ZZA IV NOVEMBRE - STAZIONE FS - POSATORA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_1/4,r-src85-1~4,1/4,LINEA 1-4  P.ZZA IV NOVEMBRE - STAZIONE FS - TAVERNELLE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_1/5,r-src85-1~5,1/5,LINEA 1-5  P.ZZA IV NOVEMBRE - P.ZZA CAVOUR - STAZIONE FS - P.ZZA D'ARMI,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_10,r-src85-10,10,LINEA 10  P.ZZA UGO BASSI - CANTIERE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_11,r-src85k-11,11,LINEA 11  P.ZZA CAVOUR - DUOMO - P.ZZA SAN GALLO - P.ZZA CAVOUR,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_12,r-src855-12,12,LINEA 12  STAZIONE - TERMINAL BIGLIETTERIE - ZIPA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_2,r-src85-2,2,LINEA 2   P.ZZA CAVOUR - GALLERIA - P.ZZA UGO BASSI - PINOCCHIO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_2/6,r-src85-2~6,2/6,LINEA 2-6  P.ZZA CAVOUR - BORGO RODI - STAZIONE FS - P.ZZA UGO BASSI - PINOCCHIO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_21,r-sr9xf-21,21,LINEA 21  ANCONA - GHETTARELLO - SAPPANICO - GALLIGNANO - MONTESICURO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_21/33,r-sr9xf-21~33,21/33,LINEA 21-33 ANCONA - CANDIA - GHETTARELLO - SAPPANICO - MONTESICURO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_22,r-sr9xg-22,22,LINEA 22  ANCONA - PINOCCHIO - STRADA VECCHIA O VARIANTE - BRECCE BIANCHE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_24,r-sr9xg-24,24,LINEA 24  ANCONA - PINOCCHIO - Q3 - BRECCE BIANCHE - BARACCOLA OVEST,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_3,r-src85-3,3,LINEA 3  P.ZZA CAVOUR - GALLERIA - P.ZZA UGO BASSI - POSATORA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_30,r-src84-30,30,LINEA 30  P.ZZA UGO BASSI - STAZIONE FS - OSPEDALE REGIONALE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_31,r-src84-31,31,LINEA 31  P.ZZA UGO BASSI - POSATORA - OSPEDALE REGIONALE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_33,r-sr9xg-33,33,LINEA 33  ANCONA - CANDIA - BOLIGNANO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_34,r-src853-34,34,LINEA 34  P.ZZA UGO BASSI - VIA FANO - VIA GIGLI - VIA LAMATICCI - P.ZZA UGO BASSI,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_35,r-src84-35,35,LINEA 35  NAVETTA STAZIONE DI TORRETTE - OSPEDALE REGIONALE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11407C,r-src-11407c,11407C,Da Piacenza a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11526C,r-src-11526c,11526C,Da Ancona a Piacenza,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11528C,r-src-11528c,11528C,Da Ancona a Piacenza,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_110,r-src4-110,110,Riccione-Pesaro Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_110S,r-src4-110s,110S,Riccione-Cattolica-Pesaro Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_12,r-src1-12,12,Novilara-Pesaro-Villa Betti,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_12F,r-src1w-12f,12F,12 Gallantara (H)-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_13,r-srbc-13,13,Urbino-Schieti-Casinina,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_130,r-src1-130,130,Pesaro-Cattolica-Gradara,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_130F,r-src1-130f,130F,Pesaro-Gsbicce-Cattolica-Gradara,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_130S,r-src1-130s,130S,Pesaro-Gabicce-Cattolica-Gradara Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_131,r-src1-131,131,Gradara-Cattolica-Gabicce-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_131F,r-src1-131f,131F,Gradara-Cattolica-Gabicce-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_131S,r-src1-131s,131S,Cattolica-Pesaro(campus),3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_14,r-srbb-14,14,Urbino-Mercatale-Sassocorvaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_15,r-srbb-15,15,Urbino-Fermignano-S.Silvestro-Urbania,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_16,r-srbbs-16,16,Urbania-Peglio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_19,r-src1-19,19,Urbino-Padiglione-Belvedere-Mondaino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_20,r-src0-20,20,Cagli-Urbino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_21,r-sr9p-21,21,Pergola-Cagli,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_22,r-sr8z-22,22,Cagli-Gubbio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_23,r-sr8z-23,23,Acqualagna-Piobbico-Apecchio-Citta di Castello,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_24,r-src0-24,24,Cagli-Calmazzo,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_25,r-src0-25,25,Fano-Calcinelli-Fossombrone-Urbino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_25F,r-src0-25f,25F,Fano-Calcinelli-Fossombrone,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_25S,r-src0-25s,25S,Pesaro FF.SS-Fano-Fossombrone-Fermignano-Urbino scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_26,r-src0-26,26,Orciano-Fossombrone,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_27,r-src0-27,27,Fossombrone-S.Lorenzo in Campo,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_28,r-src0-28,28,S.Michele al Fiume-Fossombrone,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_36,r-src84-36,36,LINEA 36  ANCONA - STAZIONE FS - STAZIONE TORRETTE - COLLEMARINO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11530C,r-src-11530c,11530C,Da Ancona a Piacenza,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11535D,r-src-11535d,11535D,Da Piacenza a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11536B,r-src-11536b,11536B,Da Ancona a Piacenza,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11539B,r-src-11539b,11539B,Da Bologna Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11545D,r-src-11545d,11545D,Da Piacenza a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11546C,r-src4-11546c,11546C,Da Pesaro a Piacenza,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11581B,r-src-11581b,11581B,Da Bologna Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11588,r-src4-11588,11588,Da Pesaro a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11589B,r-src4-11589b,11589B,Da Ravenna a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11599D,r-src4-11599d,11599D,Da Ravenna a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11602B,r-src-11602b,11602B,Da Ancona a Ravenna,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS11606C,r-src-11606c,11606C,Da Ancona a Ravenna,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12000,r-src4-12000,12000,Da Pesaro a Rimini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12001,r-src2-12001,12001,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12002,r-src2-12002,12002,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12003,r-src2-12003,12003,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12004,r-src4-12004,12004,Da Pesaro a Rimini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12005,r-src-12005,12005,Da Rimini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12006D,r-sr9-12006d,12006D,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12007C,r-src-12007c,12007C,Da Rimini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12008,r-src2-12008,12008,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12009B,r-src4-12009b,12009B,Da Rimini a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12010B,r-src2-12010b,12010B,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12011B,r-src2-12011b,12011B,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12012,r-src-12012,12012,Da Ancona a Rimini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12013B,r-src2-12013b,12013B,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12014,r-src-12014,12014,Da Ancona a Rimini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12015B,r-src-12015b,12015B,Da Rimini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12016C,r-src2-12016c,12016C,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_29,r-src0g-29,29,Fossombrone-Isola del Piano-Monteguiduccio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_29A,r-src0s-29a,29A,Fossombrone-Montefelcino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_30,r-src1-30,30,Villa S.Martino-Cattabrighe,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_30S,r-src1u-30s,30S,Villa S.Martino-S.Marina Bassa Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_31,r-src1-31,31,Cattabrighe - Villa San Martino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_35,r-src-35,35,Marotta-Pergola,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12017B,r-src2-12017b,12017B,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12018C,r-src2-12018c,12018C,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12019,r-sr9-12019,12019,Da Pesaro a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12020,r-src2-12020,12020,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12021B,r-src2-12021b,12021B,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12022,r-src2-12022,12022,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12023B,r-src-12023b,12023B,Da Rimini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12024B,r-src-12024b,12024B,Da Ancona a Rimini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12025B,r-src2-12025b,12025B,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12026,r-src-12026,12026,Da Ancona a Rimini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12027C,r-sr9-12027c,12027C,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12027D,r-sr9-12027d,12027D,Da Pesaro a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12028B,r-src2-12028b,12028B,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12029,r-src2-12029,12029,Da Pesaro a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12030,r-sr9-12030,12030,Da S. Benedetto d.T. a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12033,r-sr9-12033,12033,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12037,r-sr9uh-12037,12037,Da S. Benedetto d.T. a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12038,r-sr9-12038,12038,Da S. Benedetto d.T. a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12039,r-src4-12039,12039,Da Rimini a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12041,r-sr9-12041,12041,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12042,r-sr9-12042,12042,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12043B,r-sr9-12043b,12043B,Da Ancona a Pescara Porta Nuova,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12044,r-sr9-12044,12044,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_35A,r-src3-35a,35A,Fano-Marotta,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_36,r-src2-36,36,Mondolfo-Marotta,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_37,r-src0-37,37,Fossombrone-Pergola,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_38,r-src0q-38,38,Fratte Rosa-S.Michele al Fiume,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_39,r-src0-39,39,S.Lorenzo in Campo-Urbino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_40,r-srbcq-40,40,Ca Gallo-Auditore-Tavoleto,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_41,r-srbb-41,41,Mercatale-Belforte-Piandimeleto-Urbania-Piobbico,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_42,r-srbc-42,42,Belforte-Morciano-Rimini,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_43,r-srbb-43,43,Sestino-Belforte-Piandimeleto-Mercatale,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_44,r-srbc-44,44,Sestino-Mercatale-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_44S,r-src1-44s,44S,Cattolica-Morciano-Mercatino-M.teGrimano-M.teCerignone-Macerata F.-Sassocorvaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_45,r-srbc-45,45,Carpegna-Sassocorvaro-Montecchio-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_46,r-src1-46,46,Pesaro-Urbino Speedy,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_46R,r-src1-46r,46R,Pesaro-Urbino (Rapida),3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_46V,r-src1-46v,46V,Pesaro-Urbino (Veloce),3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_47,r-src1-47,47,Cattolica--Gradara-Tavullia-Montecchio-Urbino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_48,r-src1-48,48,Pesaro-Tavullia,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_49,r-srbb-49,49,Sassocorvaro-S.Angelo in Vado-Mercatello scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_52,r-srbb-52,52,Cagli-Urbania-Piobbico scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_53,r-sr8z-53,53,Serravalle-Cagli,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_55,r-sr8zg-55,55,Apecchio- Serravalle-Massa,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_62,r-src17-62,62,Monteciccardo-S.Angelo in Lizzola-Montecchio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_63,r-src1-63,63,Pesaro-Mombaroccio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_64,r-src1-64,64,Pesaro-Montecchio-Montefabbri,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_65,r-src1-65,65,Montecchio-Saludecio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_65S,r-src1-65s,65S,Montecchio-Saludecio Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_66,r-src1d-66,66,Montelabbate-Montecchio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_66A,r-src16-66a,66A,Montelabbate-Apsella-Ripe-Farneto,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_67,r-src1-67,67,Pesaro-Petriano,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_69,r-src1-69,69,Pesaro FF.SS-Montelabbate-zona Industriale,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_72,r-src2-72,72,Barchi-S.Costanzo-Fano,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_72S,r-src3-72s,72S,Barchi-S.Costanzo-Fano Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_73,r-src0v-73,73,Montemaggiore-Calcinelli-Cartoceto,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_74S,r-src1-74s,74S,Fano-Serrungarina Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_75S,r-src0-75s,75S,Barchi-Montemaggiore-Fano Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_8,r-src0-8,8,Urbino-Scotaneto-Monteguiduccio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_4/,r-src857-4~,4/,NAVETTA VELOCE STAZIONE FS - P.ZZA KENNEDY - P.ZZA CAVOUR,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_40,r-sr9xgx-40,40,LINEA 40  CIMITERO TAVERNELLE - SERVIZIO INTERNO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_83,r-src1-83,83,Gradara-Babbucce-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_86,r-srbc-86,86,Mercatino Conca-Morciano-Tavoleto-Ca Gallo-Urbino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_9,r-src1-9,9,Urbino-Pallino-Montefabbri-Borgo Massano,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_99,r-src1-99,99,Fano-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_99A,r-src1-99a,99A,Fano-Muraglia-Pesaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_99AF,r-src1-99af,99AF,Fano-Muraglia-Pesaro Festiva,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_99S,r-src1-99s,99S,Fano-Pesaro Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_Bis,r-src1-bis,Bis,Servizi Scolastici Extraurbani,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CD,r-src1-cd,CD,Circolare Destra Bassa Valle del Foglia,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_41,r-src85-41,41,LINEA 41  STAZIONE FS - P.ZZA UGO BASSI - GERIATRICO - PALOMBARE - STAZIONE FS,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_42,r-src85-42,42,LINEA 42  P.ZZA CAVOUR - VIA G. BRUNO - P.ZZA UGO BASSI - VIA GIOBERTI O VILLA ROMANA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_43,r-src85-43,43,LINEA 43  ANCONA - TAVERNELLE - Q2A - CAMERANENSE - VARANO O STADIO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_44,r-sr9xg-44,44,LINEA 44  ANCONA - TAVERNELLE - Q2A - PASSO VARANO - BARACCOLA SUD,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_46,r-sr9xg-46,46,LINEA 46  NAVETTA QUARTIERI NUOVI - CENTRO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_6,r-src85-6,6,LINEA 6  P.ZZA CAVOUR - BORGO RODI - REGIONE MARCHE - STAZIONE FS,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_7,r-src857-7,7,LINEA 7  P.ZZA CAVOUR - VALLE MIANO - P.ZZA CAVOUR,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_8,r-src85e-8,8,LINEA 8  P.ZZA CAVOUR - CIRCONVALLAZIONE - P.ZZA CAVOUR,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_91,r-src85-91,91,LINEA 91  P.ZZA CAVOUR- VIA ISONZO - PIETRALACROCE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_92,r-src85-92,92,LINEA 92  P.ZZA CAVOUR - VIALE DELLA VITTORIA - PIETRALACROCE,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_93,r-sr9xu-93,93,LINEA 93  ANCONA - PIETRALACROCE - MONTACUTO - POGGIO - MASSIGNANO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_94,r-src8h-94,94,LINEA 94  ANCONA - PIETRALACROCE - PORTONOVO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_A,r-src8-a,A,LINEA A FALCONARA - COLLEMARINO - ANCONA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_B,r-src8-b,B,M.MARCIANO-MARINA-FALCONARA-C.MARINO- ANCONA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BR1,r-sr9px-br1,BR1,ARCEVIA-CONCE-COLLE APRICO-GRANELLI-M.D'ORSA-FORNACE-F.BARLENGA-ARCEVIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BR2,r-sr9pr-br2,BR2,ARCEVIA - ZEPPALE - AVACELLI - CASTIGLIONI - OSTERIA - FONTI BARLENGA - ARCEVIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_01U09,r-sr9v8-fermo~capodarco~casabianca,,Fermo-Capodarco-Casabianca,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_02U09,r-sr9txb-linea2lgocalzecchi~ospedale~borgodiaz~carceri~lgocalzecchi,,Linea2 L.Go Calzecchi-Ospedale-Borgo Diaz-Carceri-L.Go Calzecchi,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E04,r-sr9v-fermo~valdaso~montalto,,Fermo-Val D'Aso-Montalto,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E05,r-sr9v-fermo~lidotrearchi~portosangiorgio,,Fermo-Lido Tre Archi-Porto San Giorgio,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E06,r-sr9vd-fermo~torredipalme,,Fermo-Torre Di Palme,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E07,r-sr9v-fermo~portosangiorgio,,Fermo-Porto San Giorgio,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E08,r-sr9-fermo~sanbenedetto~albaadriatica,,Fermo-San Benedetto-Alba Adriatica,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E09,r-sr9t-portosangiorgio~fermo~amandola,,Porto San Giorgio-Fermo-Amandola,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E11,r-sr9vb-santelpidiamare~cascinare~ptoselpi,,Sant'Elpidi A Mare-Cascinare-P.To S.Elpi,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E12,r-sr9t-morrovalle~fermo,,Morrovalle-Fermo,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E13,r-sr9v-fermo~portosantelpidio~civitanova,,Fermo-Porto Sant'Elpidio-Civitanova,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E14,r-sr9v-fermo~scuori~portosangiorgio,,Fermo-S.Cuori-Porto San Giorgio,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E17,r-sr9t-fermo~macerata,,Fermo-Macerata,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03E18,r-sr9t-francavilla~santelpidioamare~portosa,,Francavilla-Sant'Elpidio A Mare-Porto Sa,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03U09,r-sr9v8-linea3lgocalzecchi~sandrea~villaverde~lgocalzecchi,,Linea 3 L.Go Calzecchi-S.Andrea-Villa Verde-L.Go Calzecchi,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_03U18,r-sr9y0-serviziourbanoportoselpidio,,Servizio Urbano Porto S. Elpidio,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_04U09,r-sr9tx-linea4lgocalzecchi~villaverde~seminario~sassatelli~lgocalzecchi,,Linea 4 L.Go Calzecchi-Villa Verde-Seminario-Sassatelli-L.Go Calzecchi,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_06U09,r-sr9v81-linea6carceri~lgocalzecchi,,Linea 6 Carceri-L.Go Calzecchi,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_07E01,r-sr9t-montelparo~grottazzolina~fermo,,Montelparo-Grottazzolina-Fermo,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_08U09,r-sr9v8-linea8lgocalzecchi~capodarco~comunita,,Linea 8 L.Go Calzecchi-Capodarco-Comunita',3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_09U09,r-sr9v8-linea9lgocalzecchi~spcastiglionese~cdasalvano,,Linea 9 L.Go Calzecchi-Sp.Castiglionese-C.Da Salvano,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_10E01,r-sr9v-altidona~pedaso,,Altidona-Pedaso,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_15E01,r-sr9v-monterubbiano~portosangiorio~fermo,,Monterubbiano-Porto San Giorio-Fermo,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_16E04,r-sr9t4y-falerone~faleronestazione,,Falerone-Falerone Stazione,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_16E08,r-sr9sd-smerillo~svittoria,,Smerillo-S.Vittoria,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+TRA_16E10,r-sr9t-montegiorgio~sarnano,,Montegiorgio-Sarnano,3,,Trasfer Soc. Cons. a.r.l.,o-sr9-trasfersocconsarl,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BS1,r-src2-bs1,BS1,LINEE SUD BUCCI SNIGALLIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BS2,r-sr9r-bs2,BS2,LINEE VALLE DEL MISA  BUCCI SENIGALLIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BS3,r-src2-bs3,BS3,LINEE VALLE DEL NEVOLA  BUCCI SENIGALLIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BS4,r-src2-bs4,BS4,LINEE  BUCCI JESI   SENIGALLIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BS5,r-src2-bs5,BS5,SENIGALLIA - FANO SNAM,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CDF,r-src1-cdf,CDF,Circolare Destra Festiva Bassa Valle del Foglia,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CDL,r-src1-cdl,CDL,Circolare Destra prolungata ad Urbino,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CDS,r-src1-cds,CDS,Circolare Destra Scolastica Bassa Valle del Foglia,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CS,r-src1-cs,CS,Circolare Sinistra Bassa Valle del Foglia,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CSF,r-src1-csf,CSF,Circolare Sinistra Festiva Bassa Valle del Foglia,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS10,r-src2t-bus10,BUS10,SENIGALLIA CAP. - LUNGOMARE DI LEVANTE - MARZOCCHETTA - MONTIGNANO - CASTELLARO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS2,r-src2t-bus2,BUS2,SENIGALLIA F.S.- LUNGOMARE DI LEVANTE - HOTEL AMBASCIATORI,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS3,r-src2s-bus3,BUS3,SENIGALLIA F.S.-CYTYPER-CAMPUS-V.PINI-COOP-SS.16- CIARNIN (CHIESA),3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS4,r-src2t-bus4,BUS4,SENIGALLIA STAZIONE F.S. - LUNGOMARE LEV-H. AMBASCIAT- L.MARE MARZOCCHETTA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS5,r-src2u-bus5,BUS5,CESANO MARE - LUNGOMARE MAMELI - DARSENA - SENIGALLIA (STAZIONE F.S.),3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS6,r-src2s-bus6,BUS6,CESANELLA-V.MANTEGNA-V.MATTEI-V.MOLINELLO-OSPEDALE-PORTICI-STAZIONE F.S.,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS7,r-src2s-bus7,BUS7,SENIGALLIA - BORGO CORTELLONE - CIMITERO - BORGO CATENA - BORGO RIBECA - SENIGALLIA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS8,r-src2s-bus8,BUS8,SENIGALLIA - CANNELLA - B. CATENA - B. RIBECA - SENIGALLIA F.S.,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS87,r-src2s-bus87,BUS87,SENIGALLIA F.S. - VIA ROSSINI -B.CATENA - CANNELLA - VALLONE - STR. MISA -SENIGALLIA F.S.,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUS9,r-src2s-bus9,BUS9,PARCHEGGIO CIARNIN - SENIGALLIA F.S. - MARE MAMELI - PORTO,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUSS2,r-src2e-buss2,BUSS2,SENIGALLIA F.S.-B.RIBECA-CANNELLA-RONCITELLI-SCAPEZZANO- SENIGALLIA F.S,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_BUSS3,r-src2k-buss3,BUSS3,SENIGALLIA CAPOLINEA - COOP- STR. CAVALLO-MANDRIOLA-B.MARZI-S.ANGELO-FILETTO (CHIESA),3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_C,r-src8-c,C,CHIARAVALLE - COLLEMARINO - ANCONA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_C.D.,r-src85g-cd,C.D.,LINEA CD  P.ZZA CAVOUR - BORGO RODI - PANORAMICA - P.ZZA CAVOUR,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_C.S.,r-src85g-cs,C.S.,LINEA CS  P.ZZA CAVOUR - PANORAMICA - BORGO RODI - P.ZZA CAVOUR,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ATMA_CR1,r-sr9r-cr1,CR1,OSTERIA-SERRA DE CONTI-MONTECAROTTO-P.S. MARCELLO-CASTELPLANIO-MOIE-JESI-ANCONA,3,,Soc. Consortile A.T.M.A.,o-sr9-socconsortileatma,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_CSS,r-src1-css,CSS,Circolare Sinistra Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F1,r-src1p-f1,F1,Falcineto-Bellocchi-Campanella-S.Orso-FranK-Gramsci (Pincio)-XII Sett.-Fano FS,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F1S,r-src32-f1s,F1S,1 Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F2,r-src1r-f2,F2,Fano-S.Orso-Einaudi-S.Orso-Fano,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F2S,r-src1r-f2s,F2S,Bellocchi - Fano Centro (Scolastica),3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F3,r-src1-f3,F3,S.Angelo-Fano-Carignano-S.M.Arzilla,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F4,r-src1-f4,F4,S.Angelo-Fano-Carignano-S.M.Arzilla,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F4R,r-src1r-f4r,F4R,Fano FS - S.Andrea in Villis,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F7,r-src32-f7,F7,Fano-Vallato-Bellocchi,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F8,r-src32-f8,F8,Rosciano-S.Lazzaro,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F8PF,r-src32-f8pf,F8PF,Rosciano - S.Lazzaro Sabato Pomeriggio,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_F8S,r-src32-f8s,F8S,8 Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_FCIMF,r-src1r-fcimf,FCIMF,Cimitero di Ferretto,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_P11S,r-src1s-p11s,P11S,Borgo S.Maria (Peep) -Stazione FS Scolastica,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+ADR_P13,r-src1t-p13,P13,Dei Canonici-Stazione FS,3,FFFFFF,Adriabus spa,o-src-adriabusspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12045,r-sr9uh-12045,12045,Da S. Benedetto d.T. a Pescara Porta Nuova,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12047,r-sr9-12047,12047,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12048,r-sr9-12048,12048,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12050,r-sr9-12050,12050,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+START_1477,r-sr9uh-1,1,ITG-VIA DALLA CHIESA-SS16-VIA MANZONI-VIA CALATAFIMI-VIA ROMA-SAN BENEDETTO DEL TRONTO FS-VIA MORETTI-VIALE DE GASPERI-VIALE DELLO SPORT-SOPRAELEVATA-SS16-MARTINSICURO,3,,Start Spa,o-sr9-startspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+START_1494,r-sr9u5-1,1,SAN GIOVANNI DI COLONNELLA-SOPRAELEVATA-SS16-VIA MAMIANI,3,,Start Spa,o-sr9-startspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+START_1502,r-sr9uh-1,1,SAN BENEDETTO DEL TRONTO FS-VIA MORETTI-VIALE DE GASPERI-VIALE DELLO SPORT-SOPRAELEVATA-SS16-MARTINSICURO,3,,Start Spa,o-sr9-startspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+START_1588,r-sr9u-1,1,PONTE MENOCCHIA-CUPRAMARITTIMA-GROTTAMMARE-SS16-PIAZZA S.FILIPPO-VIA MANZONI-VIA CALATAFIMI-VIA PIZZI-SAN BENEDETTO DEL TRONTO FS-VIA ROMA-SS16-MARTINSICURO,3,,Start Spa,o-sr9-startspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+START_1925,r-sr9u7-1,1,VIA MAMIANI-SS16-VIA MARCHE-VIA BRUNI-ITG,3,,Start Spa,o-sr9-startspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+START_1972,r-sr9u-1,1,HOTEL RIVAMARE-CUPRAMARITTIMA-GROTTAMMARE-ITG-SS16-VIA MANZONI-VIA CALATAFIMI-SAN BENEDETTO DEL TRONTO FS-VIA MORETTI-VIALE DE GASPERI-ITC-SS16-MARTINSICURO,3,,Start Spa,o-sr9-startspa,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12051B,r-sr9-12051b,12051B,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12053,r-src4-12053,12053,Da Rimini a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12054C,r-srd-12054c,12054C,Da Termoli a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12055B,r-sr9-12055b,12055B,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12056B,r-sr9-12056b,12056B,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12057,r-sr9-12057,12057,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12058,r-sr9-12058,12058,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12059,r-sr9-12059,12059,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12060B,r-sr9-12060b,12060B,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12061,r-sr9-12061,12061,Da Ancona a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12062B,r-sr9-12062b,12062B,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS12064,r-sr9uh-12064,12064,Da Pescara Centrale a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS1545B,r-sr-1545b,1545B,Da Milano Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS1545C,r-sr-1545c,1545C,Da Milano Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21524B,r-sr9-21524b,21524B,Da Termoli a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21525,r-sr9-21525,21525,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21529,r-sr9uh-21529,21529,Da S. Benedetto d.T. a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21530B,r-sr9-21530b,21530B,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21532B,r-sr9-21532b,21532B,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21536,r-sr9-21536,21536,Da Pescara Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21540B,r-sr9-21540b,21540B,Da Ascoli Piceno a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21542,r-sr9g-21542,21542,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21544,r-sr9-21544,21544,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21546,r-sr9g-21546,21546,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21551,r-sr9g-21551,21551,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21553B,r-sr9-21553b,21553B,Da Civitanova-M. Montegr. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21555,r-sr9g-21555,21555,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21557,r-sr9g-21557,21557,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21566,r-sr9-21566,21566,Da S. Benedetto d.T. a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21567B,r-sr9-21567b,21567B,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21567C,r-sr9q-21567c,21567C,Da Macerata a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21568,r-sr9-21568,21568,Da Fabriano a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21570,r-sr9-21570,21570,Da Macerata a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21571,r-sr9w-21571,21571,Da Civitanova-M. Montegr. a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21572,r-sr9-21572,21572,Da Fabriano a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21573,r-sr9-21573,21573,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21574,r-sr9-21574,21574,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21575,r-sr9-21575,21575,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21576,r-sr9-21576,21576,Da Fabriano a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21577,r-sr9-21577,21577,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21578,r-sr9-21578,21578,Da Fabriano a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21579,r-sr9-21579,21579,Da Ancona a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21581,r-sr9q-21581,21581,Da Macerata a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21661,r-sr9r-21661,21661,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21662B,r-sr9r-21662b,21662B,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21663,r-sr9r-21663,21663,Da Ancona a Foligno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21665B,r-sr9r-21665b,21665B,Da Ancona a Montecarotto-Castelb.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21666,r-sr9r-21666,21666,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21668,r-sr9r-21668,21668,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21669,r-sr9r-21669,21669,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21670,r-sr9r-21670,21670,Da Montecarotto-Castelb. a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21671B,r-src8-21671b,21671B,Da Ancona a Jesi,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21672,r-sr9r-21672,21672,Da Foligno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21673B,r-sr9r-21673b,21673B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21674,r-sr9r-21674,21674,Da Foligno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21675,r-sr9r-21675,21675,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21676B,r-src8-21676b,21676B,Da Jesi a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21677B,r-sr9r-21677b,21677B,Da Ancona a Orte,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21678C,r-sr9r-21678c,21678C,Da Foligno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21678D,r-sr9r-21678d,21678D,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21679,r-sr9r-21679,21679,Da Ancona a Montecarotto-Castelb.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21681,r-sr9r-21681,21681,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21682,r-sr9r-21682,21682,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21683,r-sr9r-21683,21683,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21684,r-sr9r-21684,21684,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21685,r-sr9r-21685,21685,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21686,r-sr9r-21686,21686,Da Montecarotto-Castelb. a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21687B,r-sr9r-21687b,21687B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21688,r-sr9r-21688,21688,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21689,r-sr9r-21689,21689,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21690,r-sr9r-21690,21690,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21691,r-sr9r-21691,21691,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21692,r-sr9r-21692,21692,Da Foligno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21693B,r-sr9r-21693b,21693B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21694B,r-sr9r-21694b,21694B,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21695B,r-sr9r-21695b,21695B,Da Ancona a Montecarotto-Castelb.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21696B,r-sr9r-21696b,21696B,Da Montecarotto-Castelb. a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21697B,r-sr9r-21697b,21697B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21698B,r-sr9r-21698b,21698B,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21699,r-sr9r-21699,21699,Da Ancona a Foligno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21700B,r-sr9r-21700b,21700B,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21705,r-sr9n-21705,21705,Da Fabriano a Foligno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21706B,r-sr9r-21706b,21706B,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21707B,r-sr9r-21707b,21707B,Da Ancona a Terni,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS21709,r-sr9r-21709,21709,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2320,r-sr9r-2320,2320,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2321B,r-sr9r-2321b,2321B,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2321C,r-sr9r-2321c,2321C,Da Falconara M.ma a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2322B,r-sr9r-2322b,2322B,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2323,r-sr9r-2323,2323,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2324B,r-sr9r-2324b,2324B,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2325D,r-sr9r-2325d,2325D,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2326B,r-sr9r-2326b,2326B,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2327B,r-sr9r-2327b,2327B,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2328B,r-sr9r-2328b,2328B,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2329,r-sr9r-2329,2329,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2330B,r-sr9r-2330b,2330B,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2330C,r-sr9r-2330c,2330C,Da Roma Termini a Falconara M.ma,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2907,r-src4-2907,2907,Da Bologna Centrale a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2908B,r-src4-2908b,2908B,Da Pesaro a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2911B,r-src4-2911b,2911B,Da Piacenza a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2914,r-src4-2914,2914,Da Pesaro a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2916,r-src4-2916,2916,Da Pesaro a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2918,r-src4-2918,2918,Da Pesaro a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2921B,r-src4-2921b,2921B,Da Piacenza a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2922,r-src-2922,2922,Da Ancona a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS2923,r-src-2923,2923,Da Bologna Centrale a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS33990,r-src4-33990,33990,Da Pesaro a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS33993,r-src4-33993,33993,Da Bologna Centrale a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS34652,r-src2-34652,34652,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS34654,r-src2-34654,34654,Da Ancona a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS34657,r-sr9-34657,34657,Da Ancona a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35157,r-sr-35157,35157,Da Torino Porta Nuova a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35711,r-sr-35711,35711,Da Milano Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35726,r-sr-35726,35726,Da Lecce a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35754,r-sr-35754,35754,Da Lecce a Torino Porta Nuova,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35801,r-sr-35801,35801,Da Venezia S. Lucia a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35803,r-sr-35803,35803,Da Milano Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35805,r-sr-35805,35805,Da Torino Porta Nuova a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35806,r-sr-35806,35806,Da Lecce a Torino Porta Nuova,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35807,r-sr-35807,35807,Da Torino Porta Nuova a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35809,r-sr9-35809,35809,Da Milano Centrale a Taranto,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35822,r-sr9-35822,35822,Da Taranto a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35824,r-sr-35824,35824,Da Lecce a Torino Porta Nuova,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35828,r-sr-35828,35828,Da Lecce a Venezia S. Lucia,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35830,r-sr-35830,35830,Da Lecce a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35851,r-src-35851,35851,Da Ravenna a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35852,r-src-35852,35852,Da Roma Termini a Ravenna,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35909,r-sr-35909,35909,Da Bologna Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35913,r-sr-35913,35913,Da Milano Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS35918,r-sr-35918,35918,Da Lecce a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS533,r-sr9r-533,533,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS534,r-sr9r-534,534,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS540,r-sr9r-540,540,Da Roma Termini a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS541B,r-sr9r-541b,541B,Da Ancona a Roma Termini,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS603,r-sr-603,603,Da Bologna Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS604A,r-sr9-604a,604A,Da Pescara Centrale a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS604B,r-sr9-604b,604B,Da Pescara Centrale a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS605,r-sr9-605,605,Da Milano Centrale a Taranto,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS606B,r-sr9-606b,606B,Da Bari Centrale a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS606C,r-sr9-606c,606C,Da Bari Centrale a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS607B,r-sr9-607b,607B,Da Bologna Centrale a Bari Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS607C,r-sr9-607c,607C,Da Bologna Centrale a Bari Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS608B,r-sr-608b,608B,Da Lecce a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS609B,r-sr-609b,609B,Da Bologna Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS609C,r-sr-609c,609C,Da Bologna Centrale a Lecce,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS610A,r-sr-610a,610A,Da Lecce a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS610B,r-sr-610b,610B,Da Lecce a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS611A,r-sr9-611a,611A,Da Bologna Centrale a Bari Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS611B,r-sr9-611b,611B,Da Bologna Centrale a Bari Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS612,r-sr9-612,612,Da Taranto a Milano Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS613,r-sr9-613,613,Da Milano Centrale a Pescara Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS614,r-sr9-614,614,Da Bari Centrale a Bologna Centrale,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6505,r-src4-6505,6505,Da Ravenna a Pesaro,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6510B,r-src4-6510b,6510B,Da Pesaro a Ravenna,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6991A,r-sr9g-6991a,6991A,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6991B,r-sr9-6991b,6991B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6992,r-sr9g-6992,6992,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6993,r-sr9g-6993,6993,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6994,r-sr9-6994,6994,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6997B,r-sr9-6997b,6997B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6998,r-sr9-6998,6998,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS6999,r-sr9-6999,6999,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7000B,r-sr9-7000b,7000B,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7001B,r-sr9-7001b,7001B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7002,r-sr9-7002,7002,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7003,r-sr9g-7003,7003,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7004,r-sr9g-7004,7004,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7005,r-sr9-7005,7005,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7006,r-sr9-7006,7006,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7007B,r-sr9-7007b,7007B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7008C,r-sr9g-7008c,7008C,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7008D,r-sr9-7008d,7008D,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7009A,r-sr9g-7009a,7009A,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7009B,r-sr9-7009b,7009B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7010C,r-sr9-7010c,7010C,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7012,r-sr9-7012,7012,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7013B,r-sr9-7013b,7013B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7014,r-sr9g-7014,7014,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7016,r-sr9g-7016,7016,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7017B,r-sr9g-7017b,7017B,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7019B,r-sr9-7019b,7019B,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7020B,r-sr9-7020b,7020B,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7022C,r-sr9g-7022c,7022C,Da Ascoli Piceno a S. Benedetto d.T.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7023,r-sr9g-7023,7023,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7025,r-sr9-7025,7025,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7026,r-sr9-7026,7026,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7027,r-sr9-7027,7027,Da Ancona a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7084C,r-sr9-7084c,7084C,Da Ascoli Piceno a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7085,r-sr9g-7085,7085,Da S. Benedetto d.T. a Ascoli Piceno,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7086B,r-sr9w-7086b,7086B,Da Macerata a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7087B,r-sr9-7087b,7087B,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7088E,r-sr9-7088e,7088E,Da Macerata a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7088F,r-sr9-7088f,7088F,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7089B,r-sr9-7089b,7089B,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7090B,r-sr9-7090b,7090B,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7091B,r-sr9-7091b,7091B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7092,r-sr9w-7092,7092,Da Macerata a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7093,r-sr9-7093,7093,Da Ancona a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7094B,r-sr9-7094b,7094B,Da Fabriano a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7095,r-sr9q-7095,7095,Da Macerata a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7096,r-sr9q-7096,7096,Da Fabriano a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7097,r-sr9w-7097,7097,Da Civitanova-M. Montegr. a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7098,r-sr9-7098,7098,Da Macerata a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7099B,r-sr9q-7099b,7099B,Da Macerata a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7100,r-sr9q-7100,7100,Da Fabriano a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7101C,r-sr9-7101c,7101C,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7102,r-sr9-7102,7102,Da Fabriano a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7103B,r-sr9-7103b,7103B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7104,r-sr9-7104,7104,Da Fabriano a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7105,r-sr9-7105,7105,Da Ancona a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7106,r-sr9q-7106,7106,Da Fabriano a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7107,r-sr9w-7107,7107,Da Civitanova-M. Montegr. a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7108B,r-sr9-7108b,7108B,Da Macerata a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7109,r-sr9-7109,7109,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7111C,r-sr9-7111c,7111C,Da Ancona a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7112B,r-sr9w-7112b,7112B,Da Macerata a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7113B,r-sr9-7113b,7113B,Da Ancona a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7114,r-sr9q-7114,7114,Da Fabriano a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7116C,r-sr9-7116c,7116C,Da Macerata a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7117,r-sr9-7117,7117,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7118,r-sr9w-7118,7118,Da Macerata a Civitanova-M. Montegr.,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7119B,r-sr9-7119b,7119B,Da Civitanova-M. Montegr. a Fabriano,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7120B,r-sr9q-7120b,7120B,Da Fabriano a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7122,r-sr9-7122,7122,Da Macerata a Ancona,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
+FS7123,r-sr9-7123,7123,Da Ancona a Macerata,2,,Trenitalia,o-sr-trenitalia,2547,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp
